@@ -1,0 +1,35 @@
+{
+    "name": "ISS Tracker",
+    "short_name": "ISS Tracker",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#005f97",
+    "theme_color": "#005f97",
+    "icons": [
+        {
+            "src": "/logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "scope": "/",
+    "screenshots": [
+        {
+            "src": "screenshot-narrow.png",
+            "type": "image/png",
+            "sizes": "540x720",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "screenshot-wide.png",
+            "type": "image/png",
+            "sizes": "720x540",
+            "form_factor": "wide"
+        }
+    ]    
+}
